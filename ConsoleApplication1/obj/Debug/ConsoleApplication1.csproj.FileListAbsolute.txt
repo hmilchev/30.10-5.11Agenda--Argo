@@ -1,0 +1,6 @@
+c:\users\hristo\documents\visual studio 2015\Projects\30.10-5.11Agenda -Argo\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\hristo\documents\visual studio 2015\Projects\30.10-5.11Agenda -Argo\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\hristo\documents\visual studio 2015\Projects\30.10-5.11Agenda -Argo\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\hristo\documents\visual studio 2015\Projects\30.10-5.11Agenda -Argo\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+c:\users\hristo\documents\visual studio 2015\Projects\30.10-5.11Agenda -Argo\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\hristo\documents\visual studio 2015\Projects\30.10-5.11Agenda -Argo\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

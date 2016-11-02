@@ -1,0 +1,6 @@
+C:\Users\Hristo\Documents\Visual Studio 2015\Projects\30.10-5.11Agenda -Argo\sandbox\bin\Debug\sandbox.exe.config
+C:\Users\Hristo\Documents\Visual Studio 2015\Projects\30.10-5.11Agenda -Argo\sandbox\bin\Debug\sandbox.exe
+C:\Users\Hristo\Documents\Visual Studio 2015\Projects\30.10-5.11Agenda -Argo\sandbox\bin\Debug\sandbox.pdb
+C:\Users\Hristo\Documents\Visual Studio 2015\Projects\30.10-5.11Agenda -Argo\sandbox\obj\Debug\sandbox.csprojResolveAssemblyReference.cache
+C:\Users\Hristo\Documents\Visual Studio 2015\Projects\30.10-5.11Agenda -Argo\sandbox\obj\Debug\sandbox.exe
+C:\Users\Hristo\Documents\Visual Studio 2015\Projects\30.10-5.11Agenda -Argo\sandbox\obj\Debug\sandbox.pdb
