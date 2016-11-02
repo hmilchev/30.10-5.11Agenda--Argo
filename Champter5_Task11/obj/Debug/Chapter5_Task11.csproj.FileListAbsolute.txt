@@ -1,0 +1,5 @@
+c:\users\hristo\documents\visual studio 2015\Projects\30.10-5.11Agenda -Argo\Champter5_Task11\bin\Debug\Champter5_Task11.exe.config
+c:\users\hristo\documents\visual studio 2015\Projects\30.10-5.11Agenda -Argo\Champter5_Task11\obj\Debug\Champter5_Task11.exe
+c:\users\hristo\documents\visual studio 2015\Projects\30.10-5.11Agenda -Argo\Champter5_Task11\obj\Debug\Champter5_Task11.pdb
+c:\users\hristo\documents\visual studio 2015\Projects\30.10-5.11Agenda -Argo\Champter5_Task11\bin\Debug\Champter5_Task11.exe
+c:\users\hristo\documents\visual studio 2015\Projects\30.10-5.11Agenda -Argo\Champter5_Task11\bin\Debug\Champter5_Task11.pdb

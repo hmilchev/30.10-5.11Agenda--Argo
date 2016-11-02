@@ -1,0 +1,6 @@
+c:\users\hristo\documents\visual studio 2015\Projects\30.10-5.11Agenda -Argo\Chapter6_Task8\bin\Debug\Chapter6_Task8.exe.config
+c:\users\hristo\documents\visual studio 2015\Projects\30.10-5.11Agenda -Argo\Chapter6_Task8\bin\Debug\Chapter6_Task8.exe
+c:\users\hristo\documents\visual studio 2015\Projects\30.10-5.11Agenda -Argo\Chapter6_Task8\bin\Debug\Chapter6_Task8.pdb
+c:\users\hristo\documents\visual studio 2015\Projects\30.10-5.11Agenda -Argo\Chapter6_Task8\obj\Debug\Chapter6_Task8.csprojResolveAssemblyReference.cache
+c:\users\hristo\documents\visual studio 2015\Projects\30.10-5.11Agenda -Argo\Chapter6_Task8\obj\Debug\Chapter6_Task8.exe
+c:\users\hristo\documents\visual studio 2015\Projects\30.10-5.11Agenda -Argo\Chapter6_Task8\obj\Debug\Chapter6_Task8.pdb
